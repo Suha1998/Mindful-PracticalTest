@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5fcdbafecf553f8d80379191"
+  },
+  "first_name": "admin",
+  "last_name": "sample",
+  "email": "sample@gmail.com",
+  "password": "$2b$10$PgP26HtE6PNnfZsQ8NFFmuQuPzZt3WhshlLgSfCaS0lQXtGU/mOGO",
+  "date": {
+    "$date": "2020-12-07T05:17:50.786Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcdbe90cf553f8d80379193"
+  },
+  "first_name": "admin",
+  "last_name": "test",
+  "email": "sampletest@gmail.com",
+  "password": "$2b$10$F3FQnqadSGzKfhXWPiMzGOvkkN1O8aw/nkjamGeNfUQi5wnN8kHVS",
+  "date": {
+    "$date": "2020-12-07T05:33:04.408Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcf2eaf84995e44b811bc6d"
+  },
+  "first_name": "sample12",
+  "last_name": "testing12",
+  "email": "sample12@gmail.com",
+  "password": "$2b$10$2C8JWqED3WutSInfoYM.0eDkYznczwjJurkDdwEypn9tV0OmaRRQK",
+  "date": {
+    "$date": "2020-12-08T07:43:43.122Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd08976e3004e208c760bdf"
+  },
+  "first_name": "test2",
+  "last_name": "sample2",
+  "email": "test2@gmail.com",
+  "password": "$2b$10$TAKj5qjX6OhMFEvJ9PHqH..6O66c.yIh8wWtuVHpWdh21JiIr/qcC",
+  "date": {
+    "$date": "2020-12-09T08:23:18.918Z"
+  },
+  "__v": 0
+}]

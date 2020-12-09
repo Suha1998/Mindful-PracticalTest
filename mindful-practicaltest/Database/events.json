@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "5fcfaca4edc0244488bd1c93"
+  },
+  "Topic": "Beach Cleanup with Friends oraganized by Habitat Friends",
+  "Date": "13th August",
+  "Time": "4.00pm-6PM",
+  "seats": "12 seats",
+  "price": "LKR 2,000"
+},{
+  "_id": {
+    "$oid": "5fcfacc9edc0244488bd1c94"
+  },
+  "Topic": "Beach Cleanup with Friends oraganized by Habitat Friends",
+  "Date": "14th August",
+  "Time": "4.00pm-6PM",
+  "seats": "12 seats",
+  "price": "FREE"
+},{
+  "_id": {
+    "$oid": "5fcfacd5edc0244488bd1c95"
+  },
+  "Topic": "Beach Cleanup with Friends oraganized by Habitat Friends",
+  "Date": "13th August",
+  "Time": "4.00pm-6PM",
+  "seats": "12 seats",
+  "price": "LKR 2,000"
+},{
+  "_id": {
+    "$oid": "5fcface9edc0244488bd1c96"
+  },
+  "Topic": "Beach Cleanup with Friends oraganized by Habitat Friends",
+  "Date": "13th August",
+  "Time": "4.00pm-6PM",
+  "seats": "12 seats",
+  "price": "FREE"
+}]
